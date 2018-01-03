@@ -7,7 +7,7 @@ int main()
     if( (c>='a' && c<='z') || (c>='A' && c<='Z'))
         printf("Alphabet");
     else
-        printf("not an alphabet.");
+        printf("No");
 
     return 0;
 }
