@@ -29,7 +29,7 @@ class Roman
 		Scanner sc=new Scanner(System.in);
 		try{
 		
-		RomanToDecimal ad=new RomanToDecimal();
+		Roman ad=new Roman();
 			String st=sc.next();
 			char[] s=st.toCharArray();
 			int l=st.length();
