@@ -20,3 +20,4 @@ if(i==n-20
 printf("unique");
 }
 }
+/*Hard work never fails*/
